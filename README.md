@@ -26,8 +26,8 @@ Air Cursor is a Python-based application that allows you to control your compute
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
-   cd [repository-name]
+   git clone https://github.com/praneethreddie/aircursor
+   cd aircursor
    ```
 
 2. Install the required packages:
